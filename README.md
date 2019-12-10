@@ -1,5 +1,5 @@
-# P6
- The Fruit Hunter
+# Project 6 (Final)
+ The Fruit Hunter by Robert Dooley (C00126662)
 
 ## Problems
 
