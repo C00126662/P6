@@ -14,3 +14,5 @@ There was an issue in the final build where the invincibility sporadically didn'
 After the presentations, I added a ParticleSystem to my BulletEmitter and it functions properly.
 
 I corrected some of the issues in my 3rdPersonGameScene relating to missing objects, and other miscellaneous little details.
+
+I included a OneDrive link txt file to my project's game files in this repo. I could not upload it directly because GitHub said the file size was too large. After class today I was told the OneDrive method was acceptable.
