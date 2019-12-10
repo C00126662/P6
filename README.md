@@ -15,4 +15,4 @@ After the presentations, I added a ParticleSystem to my BulletEmitter and it fun
 
 I corrected some of the issues in my 3rdPersonGameScene relating to missing objects, and other miscellaneous little details.
 
-I included a OneDrive link txt file to my project's game files in this repo. I could not upload it directly because GitHub said the file size was too large. After class today I was told the OneDrive method was acceptable.
+I included a OneDrive link txt file to my project's game files in this repo. I could not upload it the game files directly because GitHub said the file size was too large. After class today I was told the OneDrive method was acceptable.
