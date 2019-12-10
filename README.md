@@ -7,6 +7,8 @@ I had trouble incorporating the enemy model I downloaded with the navmesh and na
 
 In the demo I presented in class, the WinPortal did not function properly, by loading the WinScene. It does however work properly in the editor, so it must have been a problem introduced during the build process.
 
+There was an issue in the final build where the invincibility sporadically didn't work, but it does work in the editor.
+
 ## Post-Presentation Updates
 
 After the presentations, I added a ParticleSystem to my BulletEmitter and it functions properly.
